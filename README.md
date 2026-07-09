@@ -60,3 +60,19 @@ A Codex skill that helps clarify messy questions into what to ask, what to watch
 我该怎么看？
 这对我意味着什么？
 ```
+
+## 一行命令安装
+
+```bash
+npx skills add Mizzzzzzzy/sensemaking -g
+```
+
+安装完成后，重启 Codex，让它识别这个 skill。
+
+## 使用示例
+
+```text
+用 sensemaking 分析：房地产是不是到底了
+用 sensemaking 分析：我该不该换行业
+用 sensemaking 分析：这本书的观点靠不靠谱
+```
