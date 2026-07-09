@@ -1,0 +1,4 @@
+interface:
+  display_name: "把事情看明白"
+  short_description: "Find judgeable certainty in messy questions"
+  default_prompt: "Use $sensemaking to clarify what I am really asking, what I should look at, and what I should do next."
