@@ -64,7 +64,7 @@ A Codex skill that helps clarify messy questions into what to ask, what to watch
 ## 一行命令安装
 
 ```bash
-npx skills add Mizzzzzzzy/sensemaking -g
+npx skills add miky-air/sensemaking -g
 ```
 
 安装完成后，重启 Codex，让它识别这个 skill。
